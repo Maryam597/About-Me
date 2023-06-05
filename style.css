@@ -94,10 +94,36 @@ section p {
           }
 
 
+ table {
+    border: 1px solid;
+    margin: 50px;
+    width: 50%;
+    height: 50%;
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+
+ th{    
+    border: 1px solid #070707;
+    height: 40px;
+
+ }
+
+
 h1 {
     font-family: 'Courgette', cursive;
 }
 
+
+h2 {
+    padding: 30px;
+
+}
+
+li {
+    line-height: 40px;
+}
 
 
 

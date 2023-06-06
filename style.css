@@ -61,8 +61,23 @@ img {
     float: right;
     border-radius: 50%;
     padding-bottom: 50px;
+    position: relative;
+  -webkit-transition: .4s ease-in-out;
+     -moz-transition: .4s ease-in-out;
+      -ms-transition: .4s ease-in-out;
+       -o-transition: .4s ease-in-out;
+          transition: .4s ease-in-out;
 
 }
+
+input{display:none;}
+
+input:checked ~ label img {transform: scale(1.0);}
+
+
+
+
+
 
 header p {
     font-family: 'Times New Roman', Times, serif;

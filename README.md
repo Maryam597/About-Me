@@ -7,9 +7,9 @@
 - [x] langage(s) utilisé(s)
 - [x] arborescence respectée
 - [x] *header*/*nav*/*footer* communs
-- [ ] une seule *section* par page
+- [x] une seule *section* par page
 - [x] miniatures (dimensions 300x300px)
-- [ ] miniatures (même nom que l'originale + le suffixe "-mini")
+- [x] miniatures (même nom que l'originale + le suffixe "-mini")
 - [x] 1 retour à la ligne *(br)* maximum par paragraphe
 ###### *header*
 - [x] paragraphe *(p)* contenant le futur métier signalé comme important *(strong)*
